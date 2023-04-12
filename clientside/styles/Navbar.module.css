@@ -1,0 +1,15 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    column-gap: 2em;
+    align-items: center;
+    background-color: rgb(54, 148, 242);
+    padding: 1em 0 1em 0;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+
+.navbar a:hover {
+    font-weight: bold;
+}
